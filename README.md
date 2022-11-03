@@ -5,4 +5,4 @@ Project Structure assignment 1
 I am writing inside of a markdown text document which allows me to use markdown formatting
 Markdown can do most of the stuff that HTML can do using a differnt format
 
-<p> Whoopes that didnt work </p>
+<p> Whoopes I wrote this using HTML paragraph tags </p>
